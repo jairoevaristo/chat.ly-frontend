@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, a, input, textarea, button {
+  font-family: 'Poppins', sans-serif;
+}
